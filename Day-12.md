@@ -244,5 +244,3 @@ Popular content can be served from CDN edge servers.
 Today I learned how CDNs bring content closer to users by using distributed edge servers.
 
 This reduces latency, decreases load on the origin server, and helps applications serve large numbers of users.
-
-> **Bring the content closer to the user. 🌍⚡**
