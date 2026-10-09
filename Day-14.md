@@ -289,4 +289,3 @@ Today I learned how an API Gateway provides a single entry point between clients
 
 It can centralize common responsibilities such as routing, authentication, rate limiting, and request processing.
 
-> **One door, many services behind it. 🚪🚀**
