@@ -169,5 +169,3 @@ Subsequent requests can retrieve the cached information quickly, reducing databa
 - LRU, LFU, and FIFO are common eviction policies.
 - TTL controls how long cached entries remain valid.
 - Cache invalidation and data freshness are important design challenges.
-
-**Day 16 completed! 🚀**
