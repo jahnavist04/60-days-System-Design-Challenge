@@ -149,5 +149,3 @@ However, each additional database introduces operational and data consistency co
 - SQL is often a strong choice for relational data and complex transactions.
 - NoSQL is useful when a particular data model or distributed workload calls for it.
 - Choose a database based on requirements rather than assuming one category is always faster or better.
-
-**Day 19 completed! 🚀**
