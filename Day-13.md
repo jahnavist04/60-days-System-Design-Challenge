@@ -255,5 +255,3 @@ This helps protect the login service.
 Today I learned that rate limiting is an important protection mechanism for APIs and large-scale systems.
 
 It controls traffic, prevents abuse, and ensures that system resources are shared fairly.
-
-> **Not every request needs to be accepted immediately. 🚦**
