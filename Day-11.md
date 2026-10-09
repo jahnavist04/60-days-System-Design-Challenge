@@ -254,5 +254,3 @@ The customer receives a quick response while background services process the rem
 Today I learned how message queues allow different services to communicate without directly depending on each other.
 
 They help systems process tasks asynchronously, improve scalability, and handle temporary service failures.
-
-> **Don't make every service wait — put the work in a queue. 📬🚀**
