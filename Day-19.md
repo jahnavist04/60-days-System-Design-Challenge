@@ -1,4 +1,4 @@
-# Day 19: SQL vs. NoSQL Databases 🗄️
+# SQL vs. NoSQL Databases 🗄️
 
 ## What is SQL?
 
